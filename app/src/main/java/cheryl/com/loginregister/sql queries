@@ -1,0 +1,22 @@
+create table user_science
+(
+   namesci varchar(30),
+   email varchar(30),
+   mobile varchar(30),
+   address varchar(30),
+   category varchar(30),
+   percentage varchar(30),
+   marks_sci varchar(30),
+   marks_math varchar(30)
+);
+
+create table user_arts
+(
+   nameart varchar(30),
+   m_email varchar(30),
+   m_mobile varchar(30),
+   m_address varchar(30),
+   m_category varchar(30),
+   m_percentage varchar(30),
+   m_marks_english varchar(30)
+);
